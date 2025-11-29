@@ -10,4 +10,4 @@
 ![Static Badge](https://img.shields.io/badge/python-%233776AB)
 
 #Statystki
-![Brodi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brodi45&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brodi45&stats_format=bytes)
